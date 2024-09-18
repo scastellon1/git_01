@@ -18,14 +18,14 @@ you, if you change any of this the git program will notice it and compromise you
 
 
 Fit the First     
-            The Landing     
+            The Landing         
 
 "Just the place for a Snark!" the Bellman cried,    
    As he landed his crew with care;      
 Supporting each man on the top of the tide     
-   By a finger entwined in his hair.     
+   By a finger entwined in his hair         
    
-## Second Verse
+## Second Verse    
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
